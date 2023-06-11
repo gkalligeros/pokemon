@@ -1,0 +1,14 @@
+
+[requires]
+python_version = "3.8"
+
+
+[packages]
+fastapi = "*"
+uvicorn = "*"
+requests= "*"
+redis= "*"
+pytest= "*"
+
+[pipenv]
+allow_prereleases = true
